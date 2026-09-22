@@ -226,6 +226,7 @@ Screenshots included in this repository provide evidence of the completed tasks.
 ---
 
 ## Submission Details
-- **Repository Link:** [Paste your GitHub repository link here]
-- **PDB Name Created:** `pi_pdb_26283``
+
+- **Repository Link:** https://github.com/Pierrine83/oracle_pdb_ass_II_26283_pierrine
+- **PDB Name Created:** `pi_pdb_26283`
 - **Issues Encountered:** Yes
